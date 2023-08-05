@@ -3,6 +3,20 @@
 
 ## Usage Guidelines
 
+### Astar
+
+1. Open 'Astar' folder in zipped file and run: -
+
+    ```
+    python3 Astar.py
+    ```
+
+    > Please note: - Currently **Grid with 35% obstacle density is already loaded (128x128 grid)** 
+
+2. `Results` 
+
+<img src="Astar/astar.gif"  align="center" alt="Undistorted" width="500"/>
+
 ### BFS
 
 1. Open 'bfs' folder in zipped file and run: -
@@ -14,6 +28,8 @@
     > Please note: - Currently **Grid with 35% obstacle density is already loaded (128x128 grid)** 
 
 2. `Results` conatins saved images and videos on 50x50 and 128x128 grid for different obstacle densities.
+
+<img src="bfs/bfs.gif"  align="center" alt="Undistorted" width="500"/>
 
 ### DFS
 
@@ -27,6 +43,8 @@
 
 2. `Results` conatins saved images and videos on 50x50 and 128x128 grid for different obstacle densities.
 
+<img src="dfs/dfs.gif"  align="center" alt="Undistorted" width="500"/>
+
 ### Dijkstra
 
 1. Open 'Dijkstra' folder in zipped file and run: -
@@ -38,6 +56,8 @@
     > Please note: - Currently **Grid with 35% obstacle density is already loaded (128x128 grid)** 
 
 2. `Results` conatins saved images and videos on 50x50 and 128x128 grid for different obstacle densities.
+
+<img src="Dijkstra/dijkstra.gif"  align="center" alt="Undistorted" width="500"/>
 
 ### Random Planner
 
